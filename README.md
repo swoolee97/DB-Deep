@@ -1,5 +1,5 @@
 # 📊 DBDeep
-![logo](./frontend/src/assets/logo.png)
+<img width="511" height="144" alt="logo" src="https://github.com/user-attachments/assets/0c62b5e5-53cc-4fd1-8c7d-666fec1f5a87" />
 
 **구글 기업 연계 프로젝트**로 개발된 DBDeep은 자연어로 데이터에 질문하고, SQL 쿼리를 자동 생성·실행하여 인사이트와 시각화를 즉시 제공하는 차세대 데이터 분석 플랫폼입니다.
 
@@ -46,8 +46,9 @@ DBDeep은 "데이터 민주화"를 목표로 비전문가도 직관적으로 사
 
 아래 이미지는 DBDeep의 전체 시스템 구성입니다.
 
-![DBDeep 아키텍처](./architecture.png)
-![DBDeep 아키텍처2](./architecture2.png)
+<img width="3982" height="3041" alt="architecture" src="https://github.com/user-attachments/assets/fbdcf6b0-0e1f-4ba3-9725-218b53a72ca9" />
+
+<img width="5045" height="2015" alt="architecture2" src="https://github.com/user-attachments/assets/3b0b87b9-887a-47d2-9f5b-f5a1b1ca965e" />
 
 - **Frontend**: React + Vite SPA
 - **API Gateway**: Spring Boot
